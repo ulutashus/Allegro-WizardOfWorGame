@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="enemy.c" open="1" top="0" tabpos="2">
+		<Cursor position="10637" topLine="0" />
+	</File>
+	<File name="fire.c" open="1" top="0" tabpos="3">
+		<Cursor position="2415" topLine="0" />
+	</File>
+	<File name="game_dat.h" open="1" top="0" tabpos="11">
+		<Cursor position="8" topLine="0" />
+	</File>
+	<File name="globals.h" open="1" top="0" tabpos="10">
+		<Cursor position="290" topLine="0" />
+	</File>
+	<File name="level.c" open="1" top="0" tabpos="6">
+		<Cursor position="1104" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="459" topLine="6" />
+	</File>
+	<File name="other.c" open="1" top="0" tabpos="4">
+		<Cursor position="511" topLine="0" />
+	</File>
+	<File name="player.c" open="1" top="0" tabpos="7">
+		<Cursor position="1070" topLine="0" />
+	</File>
+	<File name="print.c" open="1" top="0" tabpos="5">
+		<Cursor position="932" topLine="0" />
+	</File>
+	<File name="set_globals.h" open="1" top="0" tabpos="9">
+		<Cursor position="626" topLine="0" />
+	</File>
+	<File name="wizard.h" open="1" top="0" tabpos="8">
+		<Cursor position="2343" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

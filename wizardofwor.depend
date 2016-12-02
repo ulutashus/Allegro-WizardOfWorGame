@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1315251851 source:c:\users\huseyin\desktop\guncelleme\fire.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315260492 c:\users\huseyin\desktop\guncelleme\wizard.h
+	<allegro.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1315260506 c:\users\huseyin\desktop\guncelleme\globals.h
+
+1315260483 c:\users\huseyin\desktop\guncelleme\game_dat.h
+
+1315828433 source:c:\users\huseyin\desktop\guncelleme\level.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315257965 source:c:\users\huseyin\desktop\guncelleme\main.c
+	"wizard.h"
+	"set_globals.h"
+	"game_dat.h"
+
+1315260512 c:\users\huseyin\desktop\guncelleme\set_globals.h
+
+1315828671 source:c:\users\huseyin\desktop\guncelleme\other.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315255109 source:c:\users\huseyin\desktop\guncelleme\player.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315828614 source:c:\users\huseyin\desktop\guncelleme\print.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315257570 source:c:\users\huseyin\desktop\guncelleme\enemy.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315251851 source:c:\users\huseyin\desktop\summer_hw_101044020\fire.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315850285 c:\users\huseyin\desktop\summer_hw_101044020\wizard.h
+	<allegro.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1316179732 c:\users\huseyin\desktop\summer_hw_101044020\globals.h
+
+1315949020 c:\users\huseyin\desktop\summer_hw_101044020\game_dat.h
+
+1315828433 source:c:\users\huseyin\desktop\summer_hw_101044020\level.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316184454 source:c:\users\huseyin\desktop\summer_hw_101044020\main.c
+	"wizard.h"
+	"set_globals.h"
+	"game_dat.h"
+
+1316179727 c:\users\huseyin\desktop\summer_hw_101044020\set_globals.h
+
+1316184601 source:c:\users\huseyin\desktop\summer_hw_101044020\other.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316179734 source:c:\users\huseyin\desktop\summer_hw_101044020\player.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315828614 source:c:\users\huseyin\desktop\summer_hw_101044020\print.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315257570 source:c:\users\huseyin\desktop\summer_hw_101044020\enemy.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315251851 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\fire.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315850285 c:\users\huseyin\desktop\c works\summer_hw_101044020\wizard.h
+	<allegro.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1316179732 c:\users\huseyin\desktop\c works\summer_hw_101044020\globals.h
+
+1315949020 c:\users\huseyin\desktop\c works\summer_hw_101044020\game_dat.h
+
+1315828433 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\level.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316184454 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\main.c
+	"wizard.h"
+	"set_globals.h"
+	"game_dat.h"
+
+1316179727 c:\users\huseyin\desktop\c works\summer_hw_101044020\set_globals.h
+
+1317233093 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\other.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316179734 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\player.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315828614 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\print.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315257570 source:c:\users\huseyin\desktop\c works\summer_hw_101044020\enemy.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315248251 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\fire.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315846685 c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\wizard.h
+	<allegro.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1316176132 c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\globals.h
+
+1315945420 c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\game_dat.h
+
+1315824833 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\level.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316180854 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\main.c
+	"wizard.h"
+	"set_globals.h"
+	"game_dat.h"
+
+1316176127 c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\set_globals.h
+
+1317229493 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\other.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1316176134 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\player.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315825014 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\print.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+
+1315253970 source:c:\users\huseyin\desktop\c\homeworks\summer_hw_101044020\enemy.c
+	"wizard.h"
+	"globals.h"
+	"game_dat.h"
+

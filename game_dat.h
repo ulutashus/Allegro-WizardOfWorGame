@@ -1,0 +1,90 @@
+/*
+*   game.dat Basliklarini iceren Header File
+*/
+
+#ifndef GAME_DAT_H
+#define GAME_DAT_H
+
+    #define BOM1                             0        /* BMP  */
+    #define BOM2                             1        /* BMP  */
+    #define BOM3                             2        /* BMP  */
+    #define BOM4                             3        /* BMP  */
+    #define BURWOR_D                         4        /* BMP  */
+    #define BURWOR_D_W                       5        /* BMP  */
+    #define BURWOR_L                         6        /* BMP  */
+    #define BURWOR_L_W                       7        /* BMP  */
+    #define BURWOR_R                         8        /* BMP  */
+    #define BURWOR_R_W                       9        /* BMP  */
+    #define BURWOR_U                         10       /* BMP  */
+    #define BURWOR_U_W                       11       /* BMP  */
+    #define CONGRATS                         12       /* BMP  */
+    #define DOUBLESCORE                      13       /* BMP  */
+    #define FIRE_H                           14       /* BMP  */
+    #define FIRE_V                           15       /* BMP  */
+    #define GAMEOVER                         16       /* BMP  */
+    #define GARWOR_D                         17       /* BMP  */
+    #define GARWOR_D_W                       18       /* BMP  */
+    #define GARWOR_L                         19       /* BMP  */
+    #define GARWOR_L_W                       20       /* BMP  */
+    #define GARWOR_R                         21       /* BMP  */
+    #define GARWOR_R_W                       22       /* BMP  */
+    #define GARWOR_U                         23       /* BMP  */
+    #define GARWOR_U_W                       24       /* BMP  */
+    #define GETREADY                         25       /* BMP  */
+    #define GO                               26       /* BMP  */
+    #define F_LEVEL                          27       /* FONT */
+    #define LEVEL1                           28       /* BMP  */
+    #define LEVEL2                           29       /* BMP  */
+    #define LEVEL3                           30       /* BMP  */
+    #define LEVEL4                           31       /* BMP  */
+    #define LEVEL5                           32       /* BMP  */
+    #define LEVEL6                           33       /* BMP  */
+    #define LEVEL7                           34       /* BMP  */
+    #define F_MENU                           35       /* FONT */
+    #define MUTE                             36       /* BMP  */
+    #define P_DOWN_L                         37       /* BMP  */
+    #define P_DOWN_L_W                       38       /* BMP  */
+    #define P_DOWN_R                         39       /* BMP  */
+    #define P_DOWN_R_W                       40       /* BMP  */
+    #define P_LEFT                           41       /* BMP  */
+    #define P_LEFT_W                         42       /* BMP  */
+    #define P_RIGHT                          43       /* BMP  */
+    #define P_RIGHT_W                        44       /* BMP  */
+    #define P_UP_L                           45       /* BMP  */
+    #define P_UP_L_W                         46       /* BMP  */
+    #define P_UP_R                           47       /* BMP  */
+    #define P_UP_R_W                         48       /* BMP  */
+    #define POINTS                           49       /* BMP  */
+    #define S_BORN                           50       /* SAMP */
+    #define S_DEAD                           51       /* SAMP */
+    #define S_DOUBLESCORE                    52       /* SAMP */
+    #define S_ENEMYBORN                      53       /* SAMP */
+    #define S_EFIRE                          54       /* SAMP */
+    #define S_PFIRE                          55       /* SAMP */
+    #define S_GAME                           56       /* SAMP */
+    #define S_GAMEOVER                       57       /* SAMP */
+    #define S_GATE                           58       /* SAMP */
+    #define S_LASTHIT                        59       /* SAMP */
+    #define S_PLAYERDEAD                     60       /* SAMP */
+    #define S_WORLUK                         61       /* SAMP */
+    #define F_SCORE                          62       /* FONT */
+    #define THORWOR_D                        63       /* BMP  */
+    #define THORWOR_D_W                      64       /* BMP  */
+    #define THORWOR_L                        65       /* BMP  */
+    #define THORWOR_L_W                      66       /* BMP  */
+    #define THORWOR_R                        67       /* BMP  */
+    #define THORWOR_R_W                      68       /* BMP  */
+    #define THORWOR_U                        69       /* BMP  */
+    #define THORWOR_U_W                      70       /* BMP  */
+    #define WIZARDOFWOR_D                    71       /* BMP  */
+    #define WIZARDOFWOR_D_W                  72       /* BMP  */
+    #define WIZARDOFWOR_L                    73       /* BMP  */
+    #define WIZARDOFWOR_L_W                  74       /* BMP  */
+    #define WIZARDOFWOR_R                    75       /* BMP  */
+    #define WIZARDOFWOR_R_W                  76       /* BMP  */
+    #define WIZARDOFWOR_U                    77       /* BMP  */
+    #define WIZARDOFWOR_U_W                  78       /* BMP  */
+    #define WORLUK                           79       /* BMP  */
+    #define WORLUK_W                         80       /* BMP  */
+
+#endif
